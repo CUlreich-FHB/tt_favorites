@@ -6,3 +6,4 @@
 - Schnitzel
 - Schweinsbraten
 - Kartoffelsalat
+- Bolognese
