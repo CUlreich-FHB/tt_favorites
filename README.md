@@ -5,3 +5,4 @@
 - Kebap
 - Schnitzel
 - Schweinsbraten
+- Kartoffelsalat
